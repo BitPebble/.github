@@ -10,7 +10,7 @@ Just simple physical NFC cards you can tap on any modern phone.
 
 We're on a mission to release a set of easy to use NFC devices - BitPebbles - that help you keep all your crypto keys secret forever and always available (and recoverable) to you with minimal fuss.
 
-Full self-custody with top-notch security and features not available elsewhere.
+Full self-custody with top-notch security and features not (yet) available elsewhere.
 
 - Join Discord: https://discord.gg/umSgvsZNbV
 
