@@ -2,7 +2,7 @@
 
 The vision is simple - managing crypto keys securely should be as simple as managing a physical collection of coins or pebbles.
 
-Even a five year old can keep track of physical items, store them, count them, hide them if needed or exchange them with friends.
+A five year old can already keep track of physical items, store them, count them, hide them if needed or exchange them with friends.
 
 No insecure seed phrases that can be copied or complicated dedicated device setups.
 
