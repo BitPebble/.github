@@ -4,6 +4,8 @@ The vision is simple - managing crypto keys securely should be as simple as mana
 
 A five year old can already keep track of physical items, store them, count them, hide them if needed or exchange them with friends.
 
+Simple NFC cards to enable transactions with crypto, off-chain and off-line.
+
 No insecure seed phrases that can be copied or complicated dedicated hardware setups.
 
 Just simple physical NFC cards you can tap on any modern phone.
